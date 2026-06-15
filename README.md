@@ -34,5 +34,5 @@ Currently building projects using Python, SQL, and Machine Learning.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/anushka-k-s-a74447307
+- LinkedIn: www.linkedin.com/in/anushkaks
 - kaggle:https://www.kaggle.com/anushkasunil
